@@ -1,0 +1,92 @@
+
+.button1 {
+  background-position: 0 0;
+}
+
+.button2 {
+  background-position: -23px 0;
+}
+
+.button3 {
+  background-position: 0 -23px;
+}
+
+.button4 {
+  background-position: -23px -23px;
+}
+
+.button5 {
+  background-position: -46px 0;
+}
+
+.button6 {
+  background-position: -46px -23px;
+}
+
+.button7 {
+  background-position: 0 -46px;
+}
+
+.button8 {
+  background-position: -69px 0;
+}
+
+.gallery1 {
+  background-position: -69px -30px;
+}
+
+.gallery2 {
+  background-position: -69px -46px;
+}
+
+.gallery3 {
+  background-position: -23px -46px;
+}
+
+.gallery4 {
+  background-position: -39px -46px;
+}
+
+.link-default {
+  background-position: -99px 0;
+}
+
+.link-nsfw {
+  background-position: 0 -69px;
+}
+
+.link-self {
+  background-position: -70px -69px;
+}
+
+.mail-active {
+  background-position: -140px -69px;
+}
+
+.mail-envelope {
+  background-position: -99px -50px;
+}
+
+.mail {
+  background-position: -140px -89px;
+}
+
+.vote1 {
+  background-position: 0 -119px;
+}
+
+.vote2 {
+  background-position: -16px -119px;
+}
+
+.vote3 {
+  background-position: -32px -119px;
+}
+
+.vote4 {
+  background-position: -48px -119px;
+}
+
+.vote5 {
+  background-position: -64px -119px;
+}

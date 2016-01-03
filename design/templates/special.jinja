@@ -1,3 +1,3 @@
 {% for image in images -%}
-.flair--{{ image.filename|replace(".png","")|replace(".jpg", "") }} { background-position: {{ image.x ~ ('px' if image.x) }} {{ image.y ~ ('px' if image.y) }}; }
+.flair.flair--{{ image.filename|replace(".png","")|replace(".jpg", "") }} { background-position: {{ image.x ~ ('px' if image.x) }} {{ image.y ~ ('px' if image.y) }}; }
 {% endfor %}

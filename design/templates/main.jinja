@@ -1,3 +1,3 @@
 {% for image in images -%}
-.flair-{{ image.label }}::before { background-position: {{ image.x ~ ('px' if image.x) }} {{ image.y ~ ('px' if image.y) }}; }
+.flair.flair-{{ image.label }}::before { background-position: {{ image.x ~ ('px' if image.x) }} {{ image.y ~ ('px' if image.y) }}; }
 {% endfor %}

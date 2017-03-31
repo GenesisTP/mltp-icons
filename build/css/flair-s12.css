@@ -1,0 +1,12 @@
+.flair.flair-s12-ac::before { background-position: 0 0; }
+.flair.flair-s12-acap::before { background-position: -20px 0; }
+.flair.flair-s12-bd::before { background-position: 0 -20px; }
+.flair.flair-s12-bnh::before { background-position: -20px -20px; }
+.flair.flair-s12-dof::before { background-position: -40px 0; }
+.flair.flair-s12-hgw::before { background-position: -40px -20px; }
+.flair.flair-s12-lc::before { background-position: 0 -40px; }
+.flair.flair-s12-mrb::before { background-position: -20px -40px; }
+.flair.flair-s12-mt::before { background-position: -40px -40px; }
+.flair.flair-s12-orb::before { background-position: -60px 0; }
+.flair.flair-s12-tc::before { background-position: -60px -20px; }
+.flair.flair-s12-tfs::before { background-position: -60px -40px; }
